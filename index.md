@@ -20,13 +20,15 @@ Table of Contents:
 ### Cards
 I love playing card games and used to play competitve Pokemon and Hearthstone.
 ### Coding
-This is _my **favorite** line_ of code:
+This is _my **favorite** line_ of code in my favorite language:
 ```
 System.out.println("Hello World!");
 ```
 ### Quotes
 I ~~hate~~ ***strongly dislike*** the following quote:
 > _"If it ain't broke, **don't** fix it."_
+> 
+When programming whenever I see bad code or documentation I **want** to fix it.
 ### Math
 I find it really interesting that e<sup>i*pi </sup> + 1 = 0.
 ### Websites
